@@ -1,13 +1,3 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Background
 
 All around the globe, waste segregation is an integral factor in maintaining a sustainable environment. Since the natural resources of the world are depleting rapidly, the world population including everyday households, are relying heavily on recyclable materials. As the utilization of recyclable materials increases, the volume of recyclable materials disposed from each household also increases. To ease the responsibilities of recycling contractors, every individual should ideally be mindful of their respective waste disposal practices.  
