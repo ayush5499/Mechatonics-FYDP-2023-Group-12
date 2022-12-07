@@ -41,7 +41,7 @@ _Ian Truong - Mechanical Design  :_
 *	Ian is experienced with mechanical assemblies in industrial automation contexts, having an understanding of the design choices required for effective operation of automated production lines. 
 
 
-![avatar](bin.png)
+![Avatar](bin.png#avatar)
 
 img[src$="#avatar"] {
   display: block;
