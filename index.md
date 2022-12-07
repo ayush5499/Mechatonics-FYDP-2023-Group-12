@@ -39,3 +39,6 @@ _Tushar Gupta - Electrical Design :_
 
 _Ian Truong - Mechanical Design  :_
 *	Ian is experienced with mechanical assemblies in industrial automation contexts, having an understanding of the design choices required for effective operation of automated production lines. 
+
+
+![A test image](bin.png)
