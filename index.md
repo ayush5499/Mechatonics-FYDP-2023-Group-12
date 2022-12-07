@@ -29,6 +29,7 @@ _Here is how the System will work:_
 # The Team Itself
 
 _Ayush Mittal - Software Design:_
+<img align="right" width="100" height="100" border_radius="50%" src="bin.png">
 *	Ayush is experienced with data science with interest in Machine learning and Deep Learning. He is pursuing AI option in the university giving him required 
 
 _Prashuk Jain - System Integration:_
@@ -42,10 +43,3 @@ _Ian Truong - Mechanical Design  :_
 
 
 ![Avatar](bin.png#avatar)
-
-img[src$="#avatar"] {
-  display: block;
-  margin: 0 auto;
-  border-radius: 50%;
-  max-width: 50%;
-}
