@@ -26,3 +26,16 @@ _Here is how the System will work:_
 * The entire process takes only 1 second with no contact between the user and the bin
 *	The system further integrates with Plant Operations, monitoring the level of waste in each receptacle and raising a flag when a receptacle is full
 
+# The Team Itself
+
+_Ayush Mittal - Software Design:_
+*	Ayush is experienced with data science with interest in Machine learning and Deep Learning. He is pursuing AI option in the university giving him required 
+
+_Prashuk Jain - System Integration:_
+*	Prashuk is experienced in data science and working with different types of machine. He is really good in understanding the structures of various datasets and multiple systems communicate with each other.
+
+_Tushar Gupta - Electrical Design :_
+*	Tushar is experienced with different sensors and actuators as well as reading and creating circuit diagrams. He also has hands on experience with different electrical design processes like soldering, circuit troubleshooting etc.
+
+_Ian Truong - Mechanical Design  :_
+*	Ian is experienced with mechanical assemblies in industrial automation contexts, having an understanding of the design choices required for effective operation of automated production lines. 
