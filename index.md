@@ -12,7 +12,7 @@ The main issue faced by the general population is the number of different catego
 
 The team had to come up with a system that assists everyone in proper disposal of waste to prevent waste contamination. The system had to be modular for installation on already existing bins. It also needed to work offline with minimum power consumption, be relatively inexpensive and be built out of strong materials to withstand heavy usage for installation in public places. Most importantly, the main objective of the system is to have minimum physical contact with each individual and to detect the waste category within 1 seconds.
 
-<img align="center" width="500" height="700" src="CAD.png">
+<img align="center" width="500" height="500" src="CAD.png">
  
 The team would love to introduce to you the Computer Vision Aided Garbage Disposal System. The System would help each person by scanning their waste and informing them as to what receptacle each piece and component of their waste should be diverted to. The best part about it is that you won’t have to touch anything, eliminating all concerns about germ transfer! 
   
