@@ -37,9 +37,9 @@ _Prashuk Jain - System Integration:_
 *	Prashuk is experienced in data science and working with different types of machine. He is really good in understanding the structures of various datasets and multiple systems communicate with each other.
 
 _Tushar Gupta - Electrical Design :_
-<img align="right" width="100" height="100" src="tushar,jpeg">
+<img align="right" width="100" height="100" src="tushar.jpeg">
 *	Tushar is experienced with different sensors and actuators as well as reading and creating circuit diagrams. He also has hands on experience with different electrical design processes like soldering, circuit troubleshooting etc.
 
 _Ian Truong - Mechanical Design  :_
-<img align="right" width="100" height="100" src="ian,jpeg">
+<img align="right" width="100" height="100" src="ian.jpeg">
 *	Ian is experienced with mechanical assemblies in industrial automation contexts, having an understanding of the design choices required for effective operation of automated production lines. 
